@@ -22,6 +22,6 @@ h1.indextitle{
 .jumbotron {
     ...
     min-width: 50px;
-    margin-right: 4px;
-    margin-left:8px ;
+    margin-right: 10px;
+    margin-left:10px ;
 }
