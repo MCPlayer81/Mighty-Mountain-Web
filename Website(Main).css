@@ -18,3 +18,16 @@ h1.indextitle{
 	color:white;
 	font-family:"Times New Roman",sans-serif;
 }
+
+jumbotron {
+    padding: 0.5em 0.6em;
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.2em;
+        .btn {
+            padding: 0.5em;
+        }
+    }
+}
