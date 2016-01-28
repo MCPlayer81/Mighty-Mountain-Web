@@ -4,7 +4,8 @@
 }
 .wholepage{
 	background-image:url('https://static.pexels.com/photos/4164/landscape-mountains-nature-mountain.jpeg');
-	padding:100px;
+	padding-left:100px;
+	padding-right:100px;
 }
 .container{
 	font-family:"Arial",sans-serif;
