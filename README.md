@@ -1,2 +1,2 @@
-# Mighty-Mountain-Web
-Website is no longer going to be in use; moving to Heroku 
+# Mighty-Mountain-Web-OLD
+Use for retreving content only. New website here: https://github.com/AgentSpyname/MightyMountainWebsite and live here: http://mightymountain.herokuapp.com/
